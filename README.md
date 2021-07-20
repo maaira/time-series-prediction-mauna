@@ -4,7 +4,7 @@ Mauna Loa é um vulcão que se situa na Ilha Havaí, uma das ilhas do arquipéla
 
 ## Caracteristicas do Dataset
 
-O dataset do ENADE possui os registro mensal dos anos de 1965 á 1980
+O dataset do Mauna Loa possui os registro mensal dos anos de 1965 á 1980
 ### Dados Gerais
 | Nome da variável | Categorias |
 | ------ | ------ |
